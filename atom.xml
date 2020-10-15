@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2020-10-10T06:36:06.817Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2020/10/10/hello-world/"/>
+    <id>http://example.com/2020/10/10/hello-world/</id>
+    <published>2020-10-10T01:41:45.236Z</published>
+    <updated>2020-10-10T06:36:06.817Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">codeblock:</span><br><span class="line">  <span class="comment"># Manual define the border radius in codeblock, leave it blank for the default value: 1</span></span><br><span class="line">  border_radius:</span><br><span class="line">  <span class="comment"># Add copy button on codeblock</span></span><br><span class="line">  copy_button:</span><br><span class="line">    <span class="built_in">enable</span>: <span class="literal">true</span></span><br><span class="line">    <span class="comment"># Show text copy result</span></span><br><span class="line">    show_result: <span class="literal">true</span></span><br><span class="line">    <span class="comment"># Style: only &#x27;flat&#x27; is currently available, leave it blank if you prefer default theme</span></span><br><span class="line">    style:</span><br></pre></td></tr></table></figure><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2017年终总结</title>
+    <link href="http://example.com/2019/04/13/2017%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
+    <id>http://example.com/2019/04/13/2017%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</id>
+    <published>2019-04-13T09:49:09.000Z</published>
+    <updated>2020-10-10T06:13:54.310Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近可能一直太忙，或者是自己太懒了，闲的时候也不想去做，拖的这篇总结鸽了那么久，但是直觉告诉我不能鸽，一定要有。</p><a id="more"></a><h1 id="忙中偷闲的开端"><a href="#忙中偷闲的开端" class="headerlink" title="忙中偷闲的开端"></a>忙中偷闲的开端</h1><p>今年总结就是，累累累。<br>时光如梭，我也是转眼就毕业，然后投入了没日没夜的工作。不过最要紧的是，几经周折，好似有点陷入了这种安逸的生活（朝九晚六），晚上和周末放松娱乐的时间比较多，突然我才醒悟到，这种生活是很危险的。可以很轻易摧毁一个人的意志，让他从此止步不前，没有向上爬的欲望，温水煮青蛙。<br>毕业之前，也就是2月份，终于把所有的培训班欠款还完了。在回校之前(实习)，周末没有事情干，我们就到处去逛，几乎把深圳的公园逛完了，能吃的都吃完了(猪肚鸡、肠粉、老兵牛蹄筋、自助烤肉、烧鹅、五谷渔粉，哇太多了)。<br>其实那段时间很艰苦，但是挺开心的，毕竟还有两只小猫陪伴，哈哈哈。一下班回到家，那只胖子就咚咚咚跑下楼来接我们，饿的太狠了，然后我们就把猫粮放满，看着它们一口一口吃。<br>楼下的五谷渔粉太棒了，浓白色的鱼汤，配上荞麦和玉米粉做的米线(贼鸡儿有嚼劲)，然后佐料自己放，我喜欢吃他们家炸好的黄豆，每次吃都加三大勺(老板都怕我了)，炸得太酥了，一口咬下去几颗嘎嘣脆。然后小猫们喜欢吃鱼，也会加两条小鱼，打包上楼分给他们吃。<br>这两只猫太狠了，吃鱼的时候狼吞虎咽，摸它们肚子的话，会嗷嗷叫，仿佛怕我跟他抢食似的哈哈。<br>对了，那时候还接了一个毕业设计，晚上几乎腾出了大半时间帮他做毕设，说简单其实并不简单，花了我很多时间去查资料。白天上班学技术，晚上玩猫写毕设，这样的生活一直持续到了4月底。</p><p>我跟着老大说，我可能要回学校了，然后老大很诧异的看着我，拉着我到会议室谈话。总结就是希望我毕业后继续留在这里，也确实挺感动的，打算毕业后继续留下来，毕竟他们给我的承诺基本上都实现了。</p><h1 id="回校之后的毕设"><a href="#回校之后的毕设" class="headerlink" title="回校之后的毕设"></a>回校之后的毕设</h1><p>说实话，我的毕设在选题之前并不知道是什么鬼。而我是先接了一个毕设(没办法太穷了，得找些活干)。大概花了两个星期，连着在深圳工作晚上的时间，把他的毕业设计功能给实现完了(一个局域网ARP的攻击软件)。然后就马上开始做我的毕业设计，当然，当时也闹出了一点笑话，没搞明白自己软件的需求，还以为是P2P的那种模式。做了一个星期去实地调查之后，知道了其实是一个C/S端的通信软件，C端只需要显示图形就好了。当然所有的通信都是自己处理sock协议。没什么难度的，不多废话了。<br>很顺利的答辩通过了，而且拿了院优。(到底是有多水啊就不说了)</p><h1 id="准备回深圳"><a href="#准备回深圳" class="headerlink" title="准备回深圳"></a>准备回深圳</h1><p>把所有的绩点都换置够毕业所需，毕业流程走完，双证一拿到，就准备回深圳。<br>在回深圳的途中，很巧妙，我车票都买好了，并且已经到了深圳，b师傅一个电话给我打过来，让我把简历发去给他们看看。就去了上海。哈哈哈哈。<br>我也不知道怎么跟原HR回信，当时我在深圳的酒店住了两天，我跟她说，我打算考研了，就不回原公司了(其实去了上海)。做人总要给自己留一些后路，哈哈哈。老大也表示能理解，让我好好考研，他们也就不留我了。</p><h1 id="上海"><a href="#上海" class="headerlink" title="上海"></a>上海</h1><p>机遇与风险并存。<br>我并不对上海这个城市有太多感情，因为相对于深圳，差了太多，或者说少了一点人情味。虽然深圳的地铁非常挤，真的挤，早高峰7-8点基本上人们的脸都是贴在一起的，我是被贴在了车门…但后来有了7号线好太多了，还是喜欢这种小渔村的感觉，楼下就是吃的，然后到处有得玩(想再骑单车到深圳湾玩，风贴着脸好舒服，没机会了X)。<br>冬天是不会冷的，夏天热死！</p><p>上海的话，口味比较偏甜，做啥菜都放糖。<br>最喜欢的是上海城隍庙的生煎了吧，公司楼下的生煎和米粉也不错。</p><h1 id="技术？"><a href="#技术？" class="headerlink" title="技术？"></a>技术？</h1><p>今年还是摸了很多东西，数一哈：</p><ol><li>LLVM摸了一点，也看得懂并且能写Pass了，但底层的这些东西不是很熟，也是要花很多时间的，可能我比较笨。</li><li>arm汇编，了解了中断调用这种神奇的东西。</li><li>安全检测，打点和采集数据，主要是做SDK的开发，可能分配最多时间就是这个了。</li><li>反抓取的SDK。</li><li>SDK开发准则，和接口规范化以及组件化，上线后的测试。</li><li>白盒加密、签名。(想自己去做一套着玩，摸了)。</li><li>一套逆向工具，集成各种逆向套件。(摸了摸了)</li></ol><p>做来做去也都是做的SDK，所以我额外抽空还学了一些Swift以及RxSwift，还有一些设计模式，编码规范等等。感觉自己这半年在这些方面学的东西还是比较少。所以今年得加油了。</p><h1 id="技术之外的东西"><a href="#技术之外的东西" class="headerlink" title="技术之外的东西"></a>技术之外的东西</h1><p>今年还把投资的东西摸了一遍，想做一个自动化的交易系统，但苦于基础没打好，也没找到合适的可以开刀的量化交易框架，可能今年我会自己搭轮子，把自动化的交易系统搞出来。<br>今年看了哪些书呢，下面做个list:</p><ol><li>《实用机器学习》</li><li>《python核心编程》</li><li>《MacOS软件安全》</li><li>《走出幻觉走向成熟》</li><li>《通向财务自由之路》</li><li>《富爸爸系列》</li><li>《海龟交易守则》</li><li>《日本蜡烛图》</li></ol><p>当然，不全是看完了，基本上看个百分之五十这样，或者跳着几章看的。</p><h1 id="一些额外的感悟"><a href="#一些额外的感悟" class="headerlink" title="一些额外的感悟"></a>一些额外的感悟</h1><ol><li>路不通请不要死走，砸破南墙走北门，做任何事都一样，不能死钻一个地，程序员可能聪明，但不一定善于思考和反思，明明有更简单更好用的方法不用，为什么要自己实现呢？明明可以用更少的时间去实现，更多的时间来反思，为什么要那么执拗。做事，方法和工具比努力本身更加重要。</li><li>对人性逆向操作，但意外地在市场取得很好的成绩，也给了我一个启发，在贪婪的时候请恐惧，恐惧的时候不必要更加恐惧，一颗强大心脏是做任何事的基础。</li><li>做事分优先级，做好List，才能有条不絮的解决一个个难题。</li><li>你总是想得太多，做得太少，所以才会如此失败。</li><li>keep hungry keep foolish，保持一颗持续学习的心态，我不怕挫折，只怕这种现世安稳让我失去了奋斗的意志。</li></ol>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;最近可能一直太忙，或者是自己太懒了，闲的时候也不想去做，拖的这篇总结鸽了那么久，但是直觉告诉我不能鸽，一定要有。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="http://example.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="年终总结" scheme="http://example.com/categories/%E9%9A%8F%E7%AC%94/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
+    
+    
+    <category term="Java" scheme="http://example.com/tags/Java/"/>
+    
+    <category term="Sort" scheme="http://example.com/tags/Sort/"/>
+    
+  </entry>
+  
+</feed>
